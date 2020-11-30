@@ -22,11 +22,17 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![Java](https://img.shields.io/badge/-Java-%23ec2025?style=flat-square&logo=java&logoColor=ffffff&labelColor=%23ec2025&color=%23ec2025)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=java)
 [![Octave](https://img.shields.io/badge/-Octave-%2336afd2?style=flat-square&logo=octave&logoColor=000000&labelColor=%2336afd2&color=%2336afd2)](https://www.gnu.org/software/octave/index)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+
+### Markup
+[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS)
+[![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-fff?&logo=LaTeX&logoColor=007396)](https://www.latex-project.org/)
 
+
 ### Tools
-[![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=000)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Android](https://img.shields.io/badge/-Android-%23555?style=flat-square&logo=android&logoColor=%3ddc84)](https://developer.android.com/)
-[![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=f37726)](https://jupyter.org/)
-[![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=46b149)](https://www.anaconda.com/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-f37726?style=flat-square&logo=jupyter&logoColor=%23ffffff)](https://jupyter.org/)
+[![Anaconda](https://img.shields.io/badge/-Anaconda-46b149?style=flat-square&logo=anaconda&logoColor=%23ffffff)](https://www.anaconda.com/)
