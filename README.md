@@ -43,6 +43,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-554387?style=for-the-badge&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-075bd5?style=for-the-badge&logo=bitbucket&logoColor=white)
+
 [![Android](https://img.shields.io/badge/-Android-%23555?style=for-the-badge&logo=android&logoColor=%3ddc84)](https://developer.android.com/)
 ![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)
 [![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
