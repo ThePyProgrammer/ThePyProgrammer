@@ -17,9 +17,11 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![Atom](https://img.shields.io/badge/IDE-Atom-%2360b57e?style=for-the-badge&logo=atom)](https://atom.io/)
 ![RStudio](https://img.shields.io/badge/IDE-RStudio-75aadb?style=for-the-badge&logo=rstudio)
 ![Eclipse](https://img.shields.io/badge/IDE-Eclipse-f7941e?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255) \
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=for-the-badge&logo=sublime-text&logoColor=white&color=ff9800)
+![Sublime Text](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=for-the-badge&logo=sublime-text&logoColor=white&color=ff9800)
+![Notepad++](https://img.shields.io/badge/Editor-Notepad++-informational?style=for-the-badge&logo=notepad%2B%2B&color=5bcf74)
 
 ### Languages
+#### Code
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=python)
 [![Java](https://img.shields.io/badge/-Java-%23ec2025?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=%23ec2025&color=%23ec2025)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=java)
 [![Octave](https://img.shields.io/badge/-Octave-%2336afd2?style=for-the-badge&logo=octave&logoColor=000000&labelColor=%2336afd2&color=%2336afd2)](https://www.gnu.org/software/octave/index)
@@ -27,12 +29,13 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 ![C++](https://img.shields.io/badge/-C++-1f6aa4?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-566fb5?style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=R&logoColor=276DC3)
+![PHP](https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white)
 
-### Markup
+#### Markup
 [![HTML](https://img.shields.io/badge/-HTML-e44d26?style=for-the-badge&logo=HTML5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
-[![LaTeX](https://img.shields.io/badge/-LaTeX-fff?&style=for-the-badge&logo=LaTeX&logoColor=007396)](https://www.latex-project.org/)
+[![LaTeX](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 
 ### Tools
@@ -40,5 +43,8 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-554387?style=for-the-badge&logo=gitlab)
 [![Android](https://img.shields.io/badge/-Android-%23555?style=for-the-badge&logo=android&logoColor=%3ddc84)](https://developer.android.com/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-f37726?style=for-the-badge&logo=jupyter&logoColor=%23ffffff)](https://jupyter.org/)
+![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)
+[![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Anaconda](https://img.shields.io/badge/-Anaconda-46b149?style=for-the-badge&logo=anaconda&logoColor=%23ffffff)](https://www.anaconda.com/)
+![Opera](https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
