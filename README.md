@@ -11,11 +11,13 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 ## My Workspace
 
 ### Setup
-[![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=007ACC)](https://www.microsoft.com/en/windows/)
+[![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=007ACC)](https://www.microsoft.com/en/windows/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ-%23fe315d?style=flat-square&logo=intellij-idea)](https://www.jetbrains.com/idea/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Atom](https://img.shields.io/badge/IDE-Atom-%2360b57e?style=flat-square&logo=atom)](https://atom.io/)
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=ff9800)
+![RStudio](https://img.shields.io/badge/IDE-RStudio-75aadb?style=flat-square&logo=rstudio)
+![Eclipse](https://img.shields.io/badge/IDE-Eclipse-f7941e?style=flat-square&logo=eclipse-ide&logoColor=2C2255)
+![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat-square&logo=sublime-text&logoColor=white&color=ff9800)
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=python)
@@ -24,10 +26,10 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 
 ### Markup
-[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS)
-[![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
-[![LaTeX](https://img.shields.io/badge/-LaTeX-fff?&logo=LaTeX&logoColor=007396)](https://www.latex-project.org/)
+[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS)
+[![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-fff?&style=flat-square&logo=LaTeX&logoColor=007396)](https://www.latex-project.org/)
 
 
 ### Tools
