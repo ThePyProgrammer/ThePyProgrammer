@@ -23,7 +23,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![Notepad++](https://img.shields.io/badge/Editor-Notepad++-informational?style=for-the-badge&logo=notepad%2B%2B&color=5bcf74)](https://notepad-plus-plus.org/)
 
 
-### Languages
+### Languages I know
 
 #### Code
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=python)
