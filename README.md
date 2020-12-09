@@ -6,9 +6,9 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 
 ## Prannaya Gupta
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
-
-## ThePyProgrammer
 <a href="mailto:prannayagupta@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" />
+  
+## ThePyProgrammer
 [![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=social)](https://github.com/ThePyProgrammer)
 
 ## My Workspace
