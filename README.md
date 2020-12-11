@@ -5,7 +5,6 @@ Don't worry, I won't eat you.
 My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human alive. To the outside world, I'm an ordinary NUS High student, but secretly, with no help from my friends at NUS High, I write code and publish findings regularly. When I was a child, I started coding something(s) impossible. I spent my hours coding away. Then the stress of the school caused me to do something impossible. I brought new problems to myself, and I am the only person stupid enough to stop them. I am **ThePyProgrammer**.
 
 ## Prannaya Gupta
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@gmail.com)
   
 ## ThePyProgrammer
