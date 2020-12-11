@@ -15,6 +15,9 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 
 ### Setup
 [![Windows](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=007ACC)](https://www.microsoft.com/en/windows/)
+![Windows Acer Swift 5](https://img.shields.io/badge/Windows-Acer_Swift_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Core_i5_8565-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ-%23fe315d?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
@@ -34,11 +37,23 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![R](https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.r-project.org/)
 
 
-[![Java](https://img.shields.io/badge/-Java-%23ec2025?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=%23ec2025&color=%23ec2025)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=java)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![PHP](https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+
 [![C++](https://img.shields.io/badge/-C++-1f6aa4?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 [![C](https://img.shields.io/badge/-C-566fb5?style=for-the-badge&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+##### Learning
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+
 
 #### Markup
 [![HTML](https://img.shields.io/badge/-HTML-e44d26?style=for-the-badge&logo=HTML5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
