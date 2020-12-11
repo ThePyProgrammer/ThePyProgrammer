@@ -14,8 +14,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 ## My Workspace
 
 ### Setup
-[![Windows](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=007ACC)](https://www.microsoft.com/en/windows/)
-![Windows Acer Swift 5](https://img.shields.io/badge/Windows-Acer_Swift_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Windows Acer Swift 5](https://img.shields.io/badge/Windows-Acer_Swift_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en/windows/)
 ![Intel](https://img.shields.io/badge/Intel-Core_i5_8565-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 
