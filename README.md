@@ -13,8 +13,8 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 ## My Workspace
 
 ### Setup
-[![Windows Acer Swift 5](https://img.shields.io/badge/Windows-Acer_Swift_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en/windows/)
-![Intel](https://img.shields.io/badge/Intel-Core_i5_8565-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+[![Windows Acer Swift 5](https://img.shields.io/badge/Windows-Acer_Swift_5-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)
+![Intel](https://img.shields.io/badge/Intel-Core_i5_8565-0071C5?style=for-the-badge&logo=intel)
 
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ-%23fe315d?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea/)
@@ -30,7 +30,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 ### Languages I know
 
 #### Code
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=python)
 [![Octave](https://img.shields.io/badge/-Octave-%2336afd2?style=for-the-badge&logo=octave&logoColor=000000&labelColor=%2336afd2&color=%2336afd2)](https://www.gnu.org/software/octave/index)
 [![R](https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.r-project.org/)
 
@@ -41,9 +41,9 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 
-[![C++](https://img.shields.io/badge/-C++-1f6aa4?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+[![C++](https://img.shields.io/badge/-C++-1f6aa4?style=for-the-badge&logo=C%2B%2B)](https://www.cplusplus.com/)
 [![C](https://img.shields.io/badge/-C-566fb5?style=for-the-badge&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 
 ##### Learning
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
