@@ -23,7 +23,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![RStudio](https://img.shields.io/badge/IDE-RStudio-75aadb?style=for-the-badge&logo=rstudio)](https://rstudio.com/)
 [![Eclipse](https://img.shields.io/badge/IDE-Eclipse-f7941e?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)](https://www.eclipse.org/)
 
-[![Sublime Text](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=for-the-badge&logo=sublime-text&logoColor=white&color=ff9800)](https://www.sublimetext.com/)
+[![Sublime Text](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=for-the-badge&logo=sublime-text&color=ff9800)](https://www.sublimetext.com/)
 [![Notepad++](https://img.shields.io/badge/Editor-Notepad++-informational?style=for-the-badge&logo=notepad%2B%2B&color=5bcf74)](https://notepad-plus-plus.org/)
 
 
