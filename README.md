@@ -7,6 +7,8 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 ## Prannaya Gupta
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@gmail.com)
 [![Sololearn](https://img.shields.io/badge/SoloLearn-AAAAAA?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/Profile/9395006)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/thepyprogrammer)
+[![DataCamp](https://img.shields.io/badge/DataCamp-5ffe8c?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/ThePyProgrammer)
   
 ## ThePyProgrammer
 [![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=social)](https://github.com/ThePyProgrammer)
