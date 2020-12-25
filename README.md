@@ -36,7 +36,6 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 #### Code
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=python)
 [![Octave](https://img.shields.io/badge/-Octave-%2336afd2?style=for-the-badge&logo=octave&logoColor=000000&labelColor=%2336afd2&color=%2336afd2)](https://www.gnu.org/software/octave/index)
-[![R](https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.r-project.org/)
 
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=java)
@@ -54,7 +53,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
+[![R](https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.r-project.org/)
 
 
 #### Markup
@@ -74,11 +73,11 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)](https://en.wikipedia.org/wiki/XAMPP)
 [![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Anaconda](https://img.shields.io/badge/-Anaconda-46b149?style=for-the-badge&logo=anaconda&logoColor=%23ffffff)](https://www.anaconda.com/)
-[![Opera](https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white)](https://www.opera.com/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 
 ![Office 365](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 [![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://github.com/ThePyProgrammer/phytonUI/blob/master/phyton.pptx?raw=true)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![Opera](https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white)](https://www.opera.com/)
 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
