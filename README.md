@@ -4,16 +4,20 @@ Don't worry, I won't eat you.
 
 My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human alive. To the outside world, I'm an ordinary NUS High student, but secretly, with no help from my friends at NUS High, I write code and publish findings regularly. When I was a child, I started coding something(s) impossible. I spent my hours coding away. Then the stress of the school caused me to do something impossible. I brought new problems to myself, and I am the only person stupid enough to stop them. I am **ThePyProgrammer**.
 
-## Prannaya Gupta
+## Prannaya Gupta/ThePyProgrammer
+[![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=social)](https://github.com/ThePyProgrammer)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@gmail.com)
 [![Sololearn](https://img.shields.io/badge/SoloLearn-AAAAAA?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/Profile/9395006)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/thepyprogrammer)
-[![DataCamp](https://img.shields.io/badge/DataCamp-5ffe8c?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/ThePyProgrammer)
 [![Coursera](https://img.shields.io/badge/Coursera-AAAAAA?style=for-the-badge&logo=coursera)](https://www.coursera.org/user/39552e2b921f70a1ccfa5042262b8be8)
-[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/ThePyProgrammer/)
-  
-## ThePyProgrammer
-[![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=social)](https://github.com/ThePyProgrammer)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/11511370/prannaya-gupta)
+
+[![DataCamp](https://img.shields.io/badge/DataCamp-5ffe8c?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/ThePyProgrammer)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/ThePyProgrammer/)
+[![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/ThePyProgrammer)
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ThePyProgrammer)
+[![CodinGame](https://img.shields.io/badge/CodinGame-AAAAAA?style=for-the-badge&logo=codingame)](https://www.codingame.com/profile/e3644d0fe61d86d4ea105a576fb2990c3591214)
+
 
 ## My Workspace
 
