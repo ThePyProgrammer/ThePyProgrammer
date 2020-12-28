@@ -18,6 +18,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ThePyProgrammer)
 [![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame)](https://www.codingame.com/profile/e3644d0fe61d86d4ea105a576fb2990c3591214)
 [![Coderbyte](https://img.shields.io/badge/Coderbyte-1CC1C8?style=for-the-badge&logo=coderbyte)](https://coderbyte.com/profile/ThePyProgrammer)
+[![Edabit](https://img.shields.io/badge/Edabit-2CB84B?style=for-the-badge&logo=edabit)](https://edabit.com/user/SJdTox7mANYAc9L7k)
 
 ## My Workspace
 
