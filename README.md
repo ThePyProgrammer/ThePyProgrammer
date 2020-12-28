@@ -9,7 +9,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@gmail.com)
 [![Sololearn](https://img.shields.io/badge/SoloLearn-AAAAAA?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/Profile/9395006)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/thepyprogrammer)
-[![Coursera](https://img.shields.io/badge/Coursera-AAAAAA?style=for-the-badge&logo=coursera)](https://www.coursera.org/user/39552e2b921f70a1ccfa5042262b8be8)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera)](https://www.coursera.org/user/39552e2b921f70a1ccfa5042262b8be8)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/11511370/prannaya-gupta)
 
 [![DataCamp](https://img.shields.io/badge/DataCamp-5ffe8c?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/ThePyProgrammer)
