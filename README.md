@@ -10,6 +10,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/thepyprogrammer)
 [![DataCamp](https://img.shields.io/badge/DataCamp-5ffe8c?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/ThePyProgrammer)
 [![Coursera](https://img.shields.io/badge/Coursera-AAAAAA?style=for-the-badge&logo=coursera)](https://www.coursera.org/user/39552e2b921f70a1ccfa5042262b8be8)
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/ThePyProgrammer/)
   
 ## ThePyProgrammer
 [![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=social)](https://github.com/ThePyProgrammer)
