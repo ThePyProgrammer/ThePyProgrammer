@@ -77,7 +77,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 
 [![Android](https://img.shields.io/badge/-Android-%23555?style=for-the-badge&logo=android&logoColor=%3ddc84)](https://developer.android.com/)
 [![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)](https://en.wikipedia.org/wiki/XAMPP)
-[![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=jupyter+notebook)
 [![Anaconda](https://img.shields.io/badge/-Anaconda-46b149?style=for-the-badge&logo=anaconda&logoColor=%23ffffff)](https://www.anaconda.com/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 
