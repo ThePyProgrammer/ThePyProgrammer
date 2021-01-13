@@ -28,6 +28,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ-%23fe315d?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea/)
+[![Android Studio](https://img.shields.io/badge/IDE-Android_Studio-%233ddc84?style=for-the-badge&logo=android-studio)](https://www.jetbrains.com/idea/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Atom](https://img.shields.io/badge/IDE-Atom-%2360b57e?style=for-the-badge&logo=atom)](https://atom.io/)
 [![RStudio](https://img.shields.io/badge/IDE-RStudio-75aadb?style=for-the-badge&logo=rstudio)](https://rstudio.com/)
