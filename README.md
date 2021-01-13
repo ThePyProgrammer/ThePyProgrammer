@@ -12,7 +12,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera)](https://www.coursera.org/user/39552e2b921f70a1ccfa5042262b8be8)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/11511370/prannaya-gupta)
 
-[![DataCamp](https://img.shields.io/badge/DataCamp-5ffe8c?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/ThePyProgrammer)
+[![DataCamp](https://img.shields.io/badge/DataCamp-03ef62?style=for-the-badge&logo=datacamp&color=05192d)](https://www.datacamp.com/profile/ThePyProgrammer)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/ThePyProgrammer/)
 [![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/ThePyProgrammer)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ThePyProgrammer)
