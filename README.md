@@ -42,7 +42,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 
 #### Code
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=python)
-[![Octave](https://img.shields.io/badge/-Octave-%2336afd2?style=for-the-badge&logo=octave&logoColor=000000&labelColor=%2336afd2&color=%2336afd2)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=matlab)
+[![Octave](https://img.shields.io/badge/-Octave-%2336afd2?style=for-the-badge&logo=octave&logoColor=white&labelColor=%2336afd2&color=%2336afd2)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=matlab)
 
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=java)
