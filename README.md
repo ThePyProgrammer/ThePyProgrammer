@@ -68,7 +68,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![HTML](https://img.shields.io/badge/-HTML-e44d26?style=for-the-badge&logo=HTML5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
-[![LaTeX](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![LaTeX](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=tex)
 
 
 ### Tools
