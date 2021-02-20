@@ -30,10 +30,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ-%23fe315d?style=for-the-badge&logo=intellij-idea)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=java)
 [![Android Studio](https://img.shields.io/badge/IDE-Android_Studio-%233ddc84?style=for-the-badge&logo=android-studio)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=kotlin)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
-[![Atom](https://img.shields.io/badge/IDE-Atom-%2360b57e?style=for-the-badge&logo=atom)](https://atom.io/)
-[![RStudio](https://img.shields.io/badge/IDE-RStudio-75aadb?style=for-the-badge&logo=rstudio)](https://rstudio.com/)
-[![Eclipse](https://img.shields.io/badge/IDE-Eclipse-f7941e?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)](https://www.eclipse.org/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://github.com/ThePyProgrammer/phyton)
 
 [![Sublime Text](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=for-the-badge&logo=sublime-text&color=ff9800)](https://www.sublimetext.com/)
 [![Notepad++](https://img.shields.io/badge/Editor-Notepad++-informational?style=for-the-badge&logo=notepad%2B%2B&color=5bcf74)](https://notepad-plus-plus.org/)
