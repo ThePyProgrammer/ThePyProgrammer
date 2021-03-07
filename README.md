@@ -86,3 +86,6 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 [![Opera](https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white)](https://www.opera.com/)
 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+
+PS: If you didn't realise, the first paragraph is just the description of the starting of any "The Flash" episode.
