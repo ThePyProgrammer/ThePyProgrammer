@@ -4,6 +4,15 @@ Don't worry, I won't eat you.
 
 My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human alive. To the outside world, I'm an ordinary NUS High student, but secretly, with no help from my friends at NUS High, I write code and publish findings regularly. When I was a child, I started coding something(s) impossible. I spent my hours coding away. Then the stress of the school caused me to do something impossible. I brought new problems to myself, and I am the only person stupid enough to stop them. I am **ThePyProgrammer**.
 
+
+<a href="https://github.com/ThePyProgrammer">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePyProgrammer&hide=jupyter+notebook&theme=onedark" />
+</a>
+<a href="https://github.com/ThePyProgrammer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePyProgrammer&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Prannaya's GitHub Stats" />
+</a>
+
+
 ## Prannaya Gupta/ThePyProgrammer
 [![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=social)](https://github.com/ThePyProgrammer)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@gmail.com)
