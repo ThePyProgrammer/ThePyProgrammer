@@ -15,7 +15,7 @@ My name is Prannaya Gupta and I am the ~~fastest~~ ~~smartest~~ weirdest human a
 
 ## Prannaya Gupta/ThePyProgrammer
 [![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/ThePyProgrammer)
-[![Email](https://img.shields.io/badge/Email-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@programmer.net)
+[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@programmer.net)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/11511370/prannaya-gupta)
 
 [![Sololearn](https://img.shields.io/badge/SoloLearn-204766?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/Profile/9395006)
