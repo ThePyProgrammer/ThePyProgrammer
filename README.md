@@ -55,20 +55,24 @@ But seriously, call me Prannay.
 
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=java)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-[![PHP](https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
+
+
+##### Learning
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![PHP](https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=kotlin)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 [![C++](https://img.shields.io/badge/-C++-1f6aa4?style=for-the-badge&logo=C%2B%2B)](https://www.cplusplus.com/)
 [![C](https://img.shields.io/badge/-C-566fb5?style=for-the-badge&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-
-##### Learning
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=kotlin)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 [![R](https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.r-project.org/)
 
 
@@ -82,21 +86,23 @@ But seriously, call me Prannay.
 ### Tools
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/ThePyProgrammer)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-554387?style=for-the-badge&logo=gitlab)](https://gitlab.com/ThePyProgrammer)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-075bd5?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/ThePyProgrammer/)
 
 [![Android](https://img.shields.io/badge/-Android-%23555?style=for-the-badge&logo=android&logoColor=%3ddc84)](https://developer.android.com/)
-[![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)](https://en.wikipedia.org/wiki/XAMPP)
 [![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=jupyter+notebook)
 [![Anaconda](https://img.shields.io/badge/-Anaconda-46b149?style=for-the-badge&logo=anaconda&logoColor=%23ffffff)](https://anaconda.org/pg13)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 
 ![Office 365](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 [![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://github.com/ThePyProgrammer/phytonUI/blob/master/phyton.pptx?raw=true)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 [![Opera](https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white)](https://www.opera.com/)
 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+#### Learning
+[![Gitlab](https://img.shields.io/badge/-Gitlab-554387?style=for-the-badge&logo=gitlab)](https://gitlab.com/ThePyProgrammer)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-075bd5?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/ThePyProgrammer/)
+
+[![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)](https://en.wikipedia.org/wiki/XAMPP)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 
 
 PS: If you didn't realise, the first paragraph is just the description of the starting of any "The Flash" episode.
