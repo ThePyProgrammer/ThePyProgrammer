@@ -18,7 +18,7 @@ But seriously, call me Prannay.
 
 <p>
 <a href="https://github.com/ThePyProgrammer">
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=ThePyProgrammer&show_icons=true&count_private=true">
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=ThePyProgrammer&show_icons=true&count_private=true&no-frame=true&column=4&margin-w=15&margin-h=15">
 </a>
 </p>
 
