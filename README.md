@@ -14,6 +14,11 @@ But seriously, call me Prannay.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePyProgrammer&show_icons=true&line_height=27&count_private=true" alt="Prannaya's GitHub Stats" />
 </a>
 </p>
+<p>
+<a href="https://github.com/ThePyProgrammer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThePyProgrammer" alt="Prannaya's GitHub Stats" />
+</a>
+</p>
 
 
 <p>
@@ -25,7 +30,10 @@ But seriously, call me Prannay.
 ## Prannaya Gupta/ThePyProgrammer
 [![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/ThePyProgrammer)
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@programmer.net)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/11511370/prannaya-gupta)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 [![Sololearn](https://img.shields.io/badge/SoloLearn-204766?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/Profile/9395006)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/thepyprogrammer)
@@ -49,6 +57,7 @@ But seriously, call me Prannay.
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ-%23fe315d?style=for-the-badge&logo=intellij-idea)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=java)
 [![Android Studio](https://img.shields.io/badge/IDE-Android_Studio-%233ddc84?style=for-the-badge&logo=android-studio)](https://github.com/ThePyProgrammer?tab=repositories&q=&type=&language=kotlin)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://github.com/ThePyProgrammer/phyton)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
 [![Sublime Text](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=for-the-badge&logo=sublime-text&color=ff9800)](https://www.sublimetext.com/)
 [![Notepad++](https://img.shields.io/badge/Editor-Notepad++-informational?style=for-the-badge&logo=notepad%2B%2B&color=5bcf74)](https://notepad-plus-plus.org/)
@@ -107,6 +116,9 @@ But seriously, call me Prannay.
 #### Learning
 [![Gitlab](https://img.shields.io/badge/-Gitlab-554387?style=for-the-badge&logo=gitlab)](https://gitlab.com/ThePyProgrammer)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-075bd5?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/ThePyProgrammer/)
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 [![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)](https://en.wikipedia.org/wiki/XAMPP)
 [![Saturn Cloud](https://img.shields.io/badge/Saturn%20Cloud-ff6622?style=for-the-badge&logo=saturn)](https://www.saturncloud.io/s/home/)
