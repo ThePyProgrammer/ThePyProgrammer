@@ -6,14 +6,21 @@ My name is Prannaya **"Prannay"** Gupta and I am the ~~fastest~~ ~~smartest~~ we
 
 But seriously, call me Prannay.
 
-
+<p>
 <a href="https://github.com/ThePyProgrammer">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePyProgrammer&hide=jupyter+notebook" />
 </a>
 <a href="https://github.com/ThePyProgrammer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePyProgrammer&show_icons=true&line_height=27&count_private=true" alt="Prannaya's GitHub Stats" />
 </a>
+</p>
 
+
+<p>
+<a href="https://github.com/ThePyProgrammer">
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=ThePyProgrammer&show_icons=true&count_private=true">
+</a>
+</p>
 
 ## Prannaya Gupta/ThePyProgrammer
 [![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/ThePyProgrammer)
