@@ -14,11 +14,6 @@ But seriously, call me Prannay.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePyProgrammer&show_icons=true&line_height=27&count_private=true" alt="Prannaya's GitHub Stats" />
 </a>
 </p>
-<p>
-<a href="https://github.com/ThePyProgrammer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThePyProgrammer" alt="Prannaya's GitHub Stats" />
-</a>
-</p>
 
 
 <p>
