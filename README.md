@@ -6,19 +6,25 @@ My name is Prannaya **"Prannay"** Gupta and I am the ~~fastest~~ ~~smartest~~ we
 
 But seriously, call me Prannay.
 
-<p>
+<p align="center">
 <a href="https://github.com/ThePyProgrammer">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePyProgrammer&hide=jupyter+notebook" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePyProgrammer&hide=jupyter+notebook&theme=onedark" />
 </a>
 <a href="https://github.com/ThePyProgrammer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePyProgrammer&show_icons=true&line_height=27&count_private=true" alt="Prannaya's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePyProgrammer&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Prannaya's GitHub Stats" />
 </a>
 </p>
 
 
-<p>
+<p align="center">
 <a href="https://github.com/ThePyProgrammer">
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=ThePyProgrammer&show_icons=true&count_private=true&no-frame=true&margin-w=15&margin-h=15">
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=ThePyProgrammer&show_icons=true&count_private=true&no-frame=true&margin-w=15&margin-h=15&theme=onedark&title=MultiLanguage,Commit,Repositories,Issues,PullRequest,Followers">
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ThePyProgrammer">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThePyProgrammer&theme=onedark">
 </a>
 </p>
 
