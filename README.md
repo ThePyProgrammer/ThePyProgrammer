@@ -24,7 +24,7 @@ But seriously, call me Prannay.
 
 <p align="center">
 <a href="https://github.com/ThePyProgrammer">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThePyProgrammer&theme=onedark">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThePyProgrammer&theme=onedark&count_private=true">
 </a>
 </p>
 
