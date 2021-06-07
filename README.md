@@ -32,7 +32,7 @@ But seriously, call me Prannay.
 [![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/ThePyProgrammer)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/ThePyProgrammer)
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@programmer.net)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9gqRYGe4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prannaya-gupta/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/11511370/prannaya-gupta)
 
