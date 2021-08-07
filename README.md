@@ -8,7 +8,7 @@ But seriously, call me Prannay.
 
 <p align="center">
 <a href="https://github.com/ThePyProgrammer">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePyProgrammer&hide=jupyter+notebook&langs_count=15&theme=onedark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePyProgrammer&hide=jupyter+notebook,html&langs_count=15&theme=onedark&layout=compact" />
 </a>
 <a href="https://github.com/ThePyProgrammer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePyProgrammer&show_icons=true&line_height=27&count_private=true&theme=onedark&include_all_commits=true" alt="Prannaya's GitHub Stats" />
