@@ -28,6 +28,12 @@ But seriously, call me Prannay.
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/ThePyProgrammer">
+	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThePyProgrammer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
+</a>
+</p>
+
 ## Prannaya Gupta/ThePyProgrammer
 [![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/ThePyProgrammer)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/ThePyProgrammer)
