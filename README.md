@@ -82,8 +82,6 @@ But seriously, call me Prannay.
 
 Yes, this is turning into a resume. [I _totally_ don't have one of those.](http://www.prannaya.tech/assets/doc/cv.pdf)
 
-## 
-
 | Repository                                                   | Information                                                  | Still Active? |
 | ------------------------------------------------------------ | :----------------------------------------------------------- | :-----------: |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terminalai&repo=GaitMonitoringForParkinsonsDiseasePatients&theme=dark)](https://github.com/terminalai/GaitMonitoringForParkinsonsDiseasePatients) | My first research project, where we used signal processing techniques with numerical integration and Fast-Fourier Transform methods utilised and Support Vector Machines of varied configurations on various variables of tri-axial accelerometer inertial measurement unit (IMU) data to identify *freezing of gait*, a debilitating condition amongst Parkinson's Patients. We also developed a semi-functional wearable prototype with an Arduino Nano BLE and an Android Application capable of keeping track of movement and interfacing with Firebase and online servers to analyse this freeze data. Done as part of the MOE Science Mentorship Programme at NUS. This project clinched us a Gold Award for the Singapore Science and Engineering Fair. |     Yes.      |
