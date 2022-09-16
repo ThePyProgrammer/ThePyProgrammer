@@ -33,17 +33,11 @@ But seriously, call me Prannay.
 	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThePyProgrammer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
 </a>
 </p>
+
 ## Prannaya Gupta
-
-[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@programmer.net)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9gqRYGe4)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prannaya-gupta/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thepyprogrammer)
-
-
-
-## ThePyProgrammer
-
-[![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/ThePyProgrammer)[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/ThePyProgrammer)[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/11511370/prannaya-gupta)[![Sololearn](https://img.shields.io/badge/SoloLearn-204766?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/Profile/9395006)[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/thepyprogrammer)[![DataCamp](https://img.shields.io/badge/DataCamp-03ef62?style=for-the-badge&logo=datacamp&color=05192d)](https://www.datacamp.com/profile/ThePyProgrammer)[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/ThePyProgrammer/)
-
-
+[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prannayagupta@programmer.net)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prannaya-gupta/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thepyprogrammer)[![GitHub ThePyProgrammer](https://img.shields.io/github/followers/thepyprogrammer?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/ThePyProgrammer)[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/ThePyProgrammer)
+<!--
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/11511370/prannaya-gupta)[![Sololearn](https://img.shields.io/badge/SoloLearn-204766?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/Profile/9395006)[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/thepyprogrammer)[![DataCamp](https://img.shields.io/badge/DataCamp-03ef62?style=for-the-badge&logo=datacamp&color=05192d)](https://www.datacamp.com/profile/ThePyProgrammer)[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/ThePyProgrammer/)
 
 ## My Workspace
 
@@ -76,7 +70,7 @@ But seriously, call me Prannay.
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+-->
 
 ## Signature Projects
 
