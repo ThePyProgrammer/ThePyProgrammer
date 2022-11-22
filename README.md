@@ -74,7 +74,7 @@ But seriously, call me Prannay.
 
 ## Signature Projects
 
-Yes, this is turning into a resume. [I _totally_ don't have one of those.](http://www.prannaya.ml/assets/doc/cv.pdf)
+Yes, this is turning into a resume. [I _totally_ don't have one of those.](http://www.prannay.ml/assets/doc/cv.pdf)
 
 | Repository                                                   | Information                                                  | Still Active? |
 | ------------------------------------------------------------ | :----------------------------------------------------------- | :-----------: |
