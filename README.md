@@ -7,6 +7,9 @@ My name is Prannaya Gupta, but you can call me **'Prannay'** (that's just how it
 
 I recently graduated from [NUS High School](https://www.nushigh.edu.sg/), having majored in Computer Science, Physics, Mathematics and Chemistry. I previously served as an Overall-in-Charge of [BuildingBloCS 2023](https://old.buildingblocs.sg/2023-newnew/), you may have seen me there! I was also served as the President of my school's computing club, [AppVenture](https://nush.app) back in 2023, and I served as the Club Director of my school's [Astronomy Club](https://nushastro.github.io/website/) in 2022.
 
+<!-- BBCS Picture: https://github.com/user-attachments/assets/56352281-5bc4-460b-968d-8a41de9490b3 -->
+
+
 I'm currently serving my mandatory two years of national service as an AI Engineer (Digital Engineer) at [RSAF's RAiD](https://rsaf-agile-inno-digital.defence.gov.sg/). I am working under the [AETHER Branch](https://maps.app.goo.gl/GLhfqexgm6xFeuRS9), based at SUTD, where we build cutting-edge experimental solutions for our airmen and airwomen at the RSAF. Currently, we're working on various technologies, including human performance monitoring headsets and multi-agentic autonomous software development tools (including a VSCode Extension for our very own RAiDers to use!). If you're interested to potentially volunteer to work on our projects, or join us at AETHER as an intern (min. 3 months), please ping me! (on LinkedIn)
 
 Outside of my ventures in the RSAF, I currently serve as the Youth Community Lead at the tech-for-good charity [Better.sg](https://better.sg/), where we aim to bring together tech solutions and provide tech guidance to charities, for the betterment of Singaporean society. We recently ran the [BEACON 2024](https://beacon.better.sg/) conference, which was really awesome! If you need any guidance on how to navigate through [Better.sg](https://better.sg/), my door is always open! (on LinkedIn)
