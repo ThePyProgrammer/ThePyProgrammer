@@ -1,4 +1,8 @@
-Hello! I'm Prannaya, but you can call me **'Prannay'** (that's just how it's pronounced).
+# ``Greetings, Earthlings.``
+
+Don't worry, I won't eat you.
+
+I'm Prannaya, but you can call me **'Prannay'** (that's just how it's pronounced).
 
 I'm an incoming CS undergraduate at Georgia Tech, and I originally come from Singapore (specifically, NUS High).
 
@@ -15,7 +19,7 @@ I'm an incoming CS undergraduate at Georgia Tech, and I originally come from Sin
 
 ## Where you (probably) haven't seen me around
 
-Outside of coding, I spend my free time watching cricket, sitcoms, listening to Bollywood music and just generally talking about life.
+Outside of coding, I spend my free time watching cricket, sitcoms, listening to Bollywood music and just generally being an introvert.
 
 ## Reaching me
 
