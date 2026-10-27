@@ -41,6 +41,8 @@ Outside of coding, I spend my free time watching cricket, sitcoms, listening to 
 
 - I prompted Codex 5 times and built the [Closest MRT Finder](https://github.com/ThePyProgrammer/vibecoding-things/tree/main/closest_mrt), a website that allows people meeting together to find the closest MRTs (idk I find it useful).
 
+- I built [NoteBox](https://github.com/ThePyProgrammer/NoteBox), a custom IDE that allowed me to edit files (including a specialized language I made called Viper), listen to music, play Reversio and do so many random sidequests. This was my first large-scale Python project that started with the [Python Query React Shell](https://github.com/ThePyProgrammer/pqrs) and has been around since late 2018! So of course, it's entirely hand-coded!
+
 - Once upon a time, I tried to code a [Neural Network from Scratch in C](https://github.com/ThePyProgrammer/neuralC) but failed miserably.
 
 ## Reaching me
