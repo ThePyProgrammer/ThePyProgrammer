@@ -23,6 +23,26 @@ My name is Prannaya Gupta, and I’m a Computer Science freshman at Georgia Tech
 
 Outside of coding, I spend my free time watching cricket, sitcoms, listening to Bollywood music and just generally being an introvert.
 
+## Cool stuff I've worked on (in my free time)
+
+- I'm building [ResearchOS](https://github.com/ThePyProgrammer/ResearchOS), a self-hosted research platform to integrate various parts of my research workflow, including literature management, note-taking, experiment tracking and even a few (very basic) AI-assisted scientific workflows. I use this application every day to index new papers I find online, and I've somehow only used 35 cents in OpenAI credits.
+
+- I built [Phyton](https://github.com/phytonics/phyton), a Physics library built in Python that allows users to track constants and units and do proper mathematical operations with them. I'm most proud of the fact that this was (1) my first Python library, (2) entirely hand-coded (no AI) and (3) something I used to solve a lot of Physics Olympiad problems.
+
+- I built [Argus](https://github.com/ThePyProgrammer/argus), a robotics autonomy workbench chaining together various parts of the robotics perception pipeline, from RGB-D to 3D point-cloud mapping, to coordination, frontier-based exploration and locomotion.
+
+- I built [UniCV](https://github.com/ThePyProgrammer/unicv), a modular computer vision library built around unifying the entry and exit points of various CV algorithms and model architectures.
+
+- I (kinda) built [Mosaic](https://github.com/ThePyProgrammer/mosaic), an agent-first approach to dealing with multi-robot SLAM systems, researching on various multi-robot world representation techniques.
+
+- I (tried to) build [AITC](https://github.com/ThePyProgrammer/aitc), a "C3"-like system similar to an Air Traffic Control system, but for tracking how coding agents moved across a codebase, and controlling and fixing merge conflicts between different concurrent coding agents working on the same codebase.
+
+- I built [Blueprint](https://github.com/ThePyProgrammer/blueprint) and [Turing](https://github.com/ThePyProgrammer/turing), Claude Code harnesses for architectural decision tracking and ML experiment tracking respectively.
+
+- I prompted Codex 5 times and built the [Closest MRT Finder](https://github.com/ThePyProgrammer/vibecoding-things/tree/main/closest_mrt), a website that allows people meeting together to find the closest MRTs (idk I find it useful).
+
+- Once upon a time, I tried to code a [Neural Network from Scratch in C](https://github.com/ThePyProgrammer/neuralC) but failed miserably.
+
 ## Reaching me
 
 You can simply contact me via the following means:
