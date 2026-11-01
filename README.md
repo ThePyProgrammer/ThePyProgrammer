@@ -27,9 +27,9 @@ Outside of coding, I spend my free time watching cricket, sitcoms, listening to 
 
 - I'm building [ResearchOS](https://github.com/ThePyProgrammer/ResearchOS), a self-hosted research platform to integrate various parts of my research workflow, including literature management, note-taking, experiment tracking and even a few (very basic) AI-assisted scientific workflows. I use this application every day to index new papers I find online, and I've somehow only used 35 cents in OpenAI credits.
 
-- I built [Phyton](https://github.com/phytonics/phyton), a Physics library built in Python that allows users to track constants and units and do proper mathematical operations with them. I'm most proud of the fact that this was (1) my first Python library, (2) entirely hand-coded (no AI) and (3) something I used to solve a lot of Physics Olympiad problems.
+- I'm building [Argus](https://github.com/ThePyProgrammer/argus), a robotics autonomy workbench chaining together various parts of the robotics perception pipeline, from RGB-D to 3D point-cloud mapping, to coordination, frontier-based exploration and locomotion.
 
-- I built [Argus](https://github.com/ThePyProgrammer/argus), a robotics autonomy workbench chaining together various parts of the robotics perception pipeline, from RGB-D to 3D point-cloud mapping, to coordination, frontier-based exploration and locomotion.
+- I built [Phyton](https://github.com/phytonics/phyton), a Physics library built in Python that allows users to track constants and units and do proper mathematical operations with them. I'm most proud of the fact that this was (1) my first Python library, (2) entirely hand-coded (no AI) and (3) something I used to solve a lot of Physics Olympiad problems.
 
 - I built [UniCV](https://github.com/ThePyProgrammer/unicv), a modular computer vision library built around unifying the entry and exit points of various CV algorithms and model architectures.
 
