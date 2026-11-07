@@ -4,7 +4,9 @@ Don't worry, I won't eat you.
 
 I'm Prannaya, but you can call me **'Prannay'** (that's just how it's pronounced).
 
-My name is Prannaya Gupta, and I’m a Computer Science freshman at Georgia Tech. I’m from the _mythical_ island of Singapore, a tiny country that’s barely visible on the world map.
+I’m a CS undergrad at Georgia Tech. I’m from the _mythical_ island of Singapore, a tiny tropical country that’s barely visible on the world map. I'm what [one](https://github.com/deadly-nightshade) would call a _"sidequester"_, hopping between different cool projects faster than I'd like to admit. I mostly love doing researchy and AI-related projects, but I'm always open to learning new things.
+
+I'm currently fascinated by robot learning, perception and planning, and I'm learning more about the field every day with [a pile of research papers](https://github.com/ThePyProgrammer/ResearchOS), building a [multi-robot planning workbench](https://github.com/ThePyProgrammer/argus), and pursuing robotics-y projects within and outside of class :)
 
 ## Where you might have seen me around
 
@@ -17,11 +19,13 @@ My name is Prannaya Gupta, and I’m a Computer Science freshman at Georgia Tech
 - I previously interned at [AI Singapore](https://aisingapore.org/), helping to develop a benchmarking tool for a cutting-edge startup based in the US.
 - I was an Overall-in-Charge of [BuildingBloCS 2023](https://old.buildingblocs.sg/2023-newnew/), where I led the development of [Starvation](https://github.com/buildingblocs/starvation), a gamified coding playground for 60+ participants. I was basically the tech guy, in charge of figuring out which workshops went where, how the hackathons worked and more.
 - I was President of NUS High's computing club, [AppVenture](https://nush.app) back in 2023. 
-- I was an ExCo member of the tech-for-good charity, [Better.sg](https://better.sg) from 2023 to 2025. I also contributed to some of their projects, including building [RecycleGoWhere](https://recyclegowhere.sg/)'s first Django-based backend, [SayLah!](https://better.sg/stories/saylah-making-communication-accessible-in-singapore)'s initial Vue-based frontend, and trying my hand at [ToBeYou](https://tobeyou.sg/)'s data analytics work. I was also comically given the titles of _"Vue sensei"_, _"Firebase sensei"_ and _"GitHub sensei"_ by [Gin](https://www.linkedin.com/in/junze-zheng/).
+- I was an ExCo member of the tech-for-good charity, [Better.sg](https://better.sg) from 2023 to 2025. I also contributed to some of their projects, including building [RecycleGoWhere](https://recyclegowhere.sg/)'s first Django-based backend, [SayLah!](https://better.sg/stories/saylah-making-communication-accessible-in-singapore)'s initial Vue-based frontend, and trying my hand at [ToBeYou](https://tobeyou.sg/)'s data analytics work. I was also comically given the titles of _"Vue sensei"_, _"Firebase sensei"_ and _"GitHub sensei"_ by [Gin](https://github.com/gingy3).
+- I'm currently working on [Data Science @ GT](https://datasciencegt.org/)'s [NanoGPT Slowrun](https://github.com/ThePyProgrammer/slowrun) project, where we're trying to explore tokenizer modifications (amongst other things) for improved NanoGPT training.
+- I'm currently working on [AI @ Georgia Tech](https://www.aigatech.org/)'s WorldSim project, where we're training models to infer physical dynamics from videos and predict how scenes will evolve.
 
 ## Where you (probably) haven't seen me around
 
-Outside of coding, I spend my free time watching cricket, sitcoms, listening to Bollywood music and just generally being an introvert.
+Outside of coding, I spend my free time watching cricket, sitcoms and brainrot Bollywood movies, listening to depressing/soulful/fun/literally any good Hindi music and just generally being an introvert.
 
 ## Cool stuff I've worked on (in my free time)
 
