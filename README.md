@@ -14,10 +14,10 @@ My name is Prannaya Gupta, and I’m a Computer Science freshman at Georgia Tech
 - I was a Research Engineer at [Pragnition Labs](https://pragnition.ai/), where I built agentic solutions for healthcare and robotics.
 - I worked with [Walled AI Labs](https://walled.ai) on [WalledEval](https://github.com/walledai/walledeval), an open-source safety evaluation toolkit for LLM safety.
 - I previously interned at [Temus](https://temus.com) on an early version of [TalentForge](https://temus.com/case-study/ai-talent-acquisition-and-development-platform/), which won the Innovation Prize at the [Google x IMDA AI Trailblazers Programme in Jan 2024](https://www.channelnewsasia.com/watch/googles-ai-trailblazers-programme-aims-help-firms-find-tech-solutions-video-4083086) (while I was on [Pulau Tekong Island](https://x.com/gabrielchua/status/1860662730870653127) 🤡).
-- I previously interned at [AI Singapore](https://aisingapore.org/), helping to develop a benchmarking tool for a cutting-edge startup based in the States.
-- I was an Overall-in-Charge of [BuildingBloCS 2023](https://old.buildingblocs.sg/2023-newnew/), where I led the development of [Starvation](https://github.com/buildingblocs/starvation), a gamified coding playground for 60+ participants.
-- I was President of NUS High's computing club, [AppVenture](https://nush.app) back in 2023.
-- I was an ExCo member of the tech-for-good charity, [Better.sg](https://better.sg) from 2023 to 2025.
+- I previously interned at [AI Singapore](https://aisingapore.org/), helping to develop a benchmarking tool for a cutting-edge startup based in the US.
+- I was an Overall-in-Charge of [BuildingBloCS 2023](https://old.buildingblocs.sg/2023-newnew/), where I led the development of [Starvation](https://github.com/buildingblocs/starvation), a gamified coding playground for 60+ participants. I was basically the tech guy, in charge of figuring out which workshops went where, how the hackathons worked and more.
+- I was President of NUS High's computing club, [AppVenture](https://nush.app) back in 2023. 
+- I was an ExCo member of the tech-for-good charity, [Better.sg](https://better.sg) from 2023 to 2025. I also contributed to some of their projects, including building [RecycleGoWhere](https://recyclegowhere.sg/)'s first Django-based backend, [SayLah!](https://better.sg/stories/saylah-making-communication-accessible-in-singapore)'s initial Vue-based frontend, and trying my hand at [ToBeYou](https://tobeyou.sg/)'s data analytics work. I was also comically given the titles of _"Vue sensei"_, _"Firebase sensei"_ and _"GitHub sensei"_ by [Gin](https://www.linkedin.com/in/junze-zheng/).
 
 ## Where you (probably) haven't seen me around
 
@@ -35,7 +35,7 @@ Outside of coding, I spend my free time watching cricket, sitcoms, listening to 
 
 - I (kinda) built [Mosaic](https://github.com/ThePyProgrammer/mosaic), an agent-first approach to dealing with multi-robot SLAM systems, researching on various multi-robot world representation techniques.
 
-- I (tried to) build [AITC](https://github.com/ThePyProgrammer/aitc), a "C3"-like system similar to an Air Traffic Control system, but for tracking how coding agents moved across a codebase, and controlling and fixing merge conflicts between different concurrent coding agents working on the same codebase.
+- I (tried to) build [AITC](https://github.com/ThePyProgrammer/aitc), a "C3"-like system similar to an Air Traffic Control system, but for tracking how coding agents moved across a codebase, and controlling and fixing merge conflicts between different concurrent coding agents working on the same codebase. Unfortunately, the system fork-bombed my computer so I stopped building it.
 
 - I built [Blueprint](https://github.com/ThePyProgrammer/blueprint) and [Turing](https://github.com/ThePyProgrammer/turing), Claude Code harnesses for architectural decision tracking and ML experiment tracking respectively.
 
